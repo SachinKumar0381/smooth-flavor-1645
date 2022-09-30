@@ -1,4 +1,4 @@
-import { Box, Button, Center, Container, Text } from "@chakra-ui/react";
+import {  Container, Text } from "@chakra-ui/react";
 import React from "react";
 
 const ActivityLevel = ({ formdata, setFormdata ,handleChange }) => {
@@ -8,8 +8,7 @@ const ActivityLevel = ({ formdata, setFormdata ,handleChange }) => {
     <Container
       display="flex"
       flexDirection="column"
-      // paddingTop={5}
-      // paddingBottom={5}
+    
       gap={3}
     >
       <Container variant="outline" border="2px" borderColor="blackAlpha.400">
