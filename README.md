@@ -22,7 +22,7 @@ In this project , we have tried to make a perfect clone of myfitnesspal.com.
   <hr/> 
   
   <h2>project live <h2>
-  <h3>link:-</h3>https://remarkable-jalebi-7194dd.netlify.app/
+  <h3>link:-</h3>https://myfitnesspal-snowy.vercel.app/
   
    <h1>Screenshot View</h1>
 * HomePage:
